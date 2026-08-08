@@ -167,6 +167,14 @@ DIVIDE(
 
 Average Employee Age =
 AVERAGE('HR Data'[Age])
+### Average Employee Age
+
+```DAX
+Average Employee Age =
+AVERAGE('HR Data'[Age])
+```
+
+---
 
 ## 📊 Dashboard Components
 
