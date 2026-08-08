@@ -231,6 +231,7 @@ Interactive Power BI Dashboard
       │
       ▼
 HR Insights & Decision Support
+```
 
 ## 📂 Dataset
 
@@ -312,3 +313,4 @@ Interested in transforming data into meaningful business insights through analyt
 If you find this project useful or have suggestions for improving the dashboard, feel free to connect or provide feedback.
 
 ⭐ If you find this project interesting, consider giving the repository a **Star**.
+```
